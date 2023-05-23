@@ -1,6 +1,6 @@
 {
   "features": {
-    "localMQTT": false,
+    "localMQTT": true,
     "influxDB": false
   },
   "yoLink": {
