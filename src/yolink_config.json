@@ -7,8 +7,8 @@
     "apiv2": {
       "apiUrl": "https://api.yosmart.com/open/yolink/v2/api",
       "tokenUrl": "https://api.yosmart.com/open/yolink/token",
-      "uaId": "ua_456043AD43094E238E70193BDB63ED72",
-      "secId": "sec_v1_rg8y9DKHVRkfx2mMbx94JQ==",
+      "uaId": "",
+      "secId": "",
       "mqtt": {
         "url": "api.yosmart.com",
         "port": 8003,
