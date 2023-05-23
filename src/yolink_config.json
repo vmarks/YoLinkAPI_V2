@@ -7,8 +7,8 @@
     "apiv2": {
       "apiUrl": "https://api.yosmart.com/open/yolink/v2/api",
       "tokenUrl": "https://api.yosmart.com/open/yolink/token",
-      "uaId": "",
-      "secId": "",
+      "uaId": "ua_456043AD43094E238E70193BDB63ED72",
+      "secId": "sec_v1_rg8y9DKHVRkfx2mMbx94JQ==",
       "mqtt": {
         "url": "api.yosmart.com",
         "port": 8003,
@@ -19,7 +19,7 @@
   "mqttBroker": {
     "user": "",
     "pasw": "",
-    "host": "localhost",
+    "host": "192.168.0.115",
     "port": 1883
   },
   "influxdb": {
